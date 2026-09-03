@@ -175,14 +175,6 @@ I'd rather have a GitHub that shows **progress, curiosity and real projects** th
 
 ---
 
-## 📈 GitHub Stats
-
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samir-khanal&show_icons=true&theme=default&hide_title=true&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samir-khanal&layout=compact&hide=html,css,javascript)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-khanal7)
