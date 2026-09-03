@@ -4,13 +4,11 @@
 
 ---
 
-### 🚀 About Me
-
 I'm a Data Engineer passionate about building scalable data pipelines, analyzing data, and creating actionable insights. I enjoy working across the entire data lifecycle — from ETL and data warehousing to analytics and visualization.
 
 - 🎓 BSc.CSIT Graduate | Amrit Science Campus (ASCOL), Nepal
 - 📍 Based in Kathmandu, Nepal
-- 💼 Actively seeking Data Engineering roles
+- 💼 Actively seeking for Data roles
 - 📫 Reach me at: [khanalsamirk@gmail.com](mailto:khanalsamirk@gmail.com)
 
 ---
