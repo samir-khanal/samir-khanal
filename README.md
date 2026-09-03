@@ -2,7 +2,7 @@
 
 ### I learn by building.
 
-I'm a **Computer Science** working my way deeper into **Data Engineering and Analytics**.
+I'm a **Computer Science Graduate** working my way deeper into **Data Engineering and Analytics**.
 
 I don't like learning tools just to add them to a list. I'd rather take a messy dataset, build something around it, break it, figure out why it broke, and understand the problem a little better each time.
 
