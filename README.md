@@ -113,26 +113,6 @@ Projects involving real-world web data collection, transformation and analysis �
 
 ---
 
-## 🧠 How I Like to Work
-
-### Build → Break → Understand → Improve
-
-I care less about making a project *look* finished and more about understanding what is happening underneath it.
-
-When something breaks, that's usually where the interesting part starts.
-
-For my projects, I try to think about:
-
-- Where did the data come from?
-- Can I trust it?
-- What happens when the data is messy?
-- Why did I choose this approach?
-- What assumptions am I making?
-- What does the data actually tell me?
-- What would I change if I built it again?
-
----
-
 ## 🌱 Currently Learning
 
 I'm gradually moving from **working with data** toward **building systems around data**.
@@ -197,9 +177,9 @@ I'd rather have a GitHub that shows **progress, curiosity and real projects** th
 
 ## 📈 GitHub Stats
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samir-khanal&show_icons=true&theme=default&hide_title=true)
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samir-khanal&show_icons=true&theme=default&hide_title=true&hide=contribs,prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samir-khanal&layout=compact&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samir-khanal&layout=compact&hide=html,css,javascript)
 
 ---
 
@@ -214,8 +194,6 @@ I'd rather have a GitHub that shows **progress, curiosity and real projects** th
 ### 💭 What I'm Trying to Get Better At
 
 Not just **working with data**, but understanding what should happen to the data **before I touch it** — where it comes from, whether I can trust it, how it should be transformed, and what decision it is ultimately meant to support.
-
-
 
 
 ⭐ **Open to connecting with fellow data enthusiasts!**
