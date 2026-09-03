@@ -133,6 +133,8 @@ Currently focusing on:
 ## 💼 Experience
 
 ### Business Analyst Intern — Cloud Tech Services
+The biggest takeaway was understanding how data actually gets used in real business decisions — not just how it's stored or analyzed, but how it helps teams move faster and make better choices.
+
 ### AI/ML Research Intern at Nepal Telecom (NTC)
 Worked on an **MIS project for Nepal Telecom (NTC)** involving data, reporting and an AI/RAG-based chatbot.
 
